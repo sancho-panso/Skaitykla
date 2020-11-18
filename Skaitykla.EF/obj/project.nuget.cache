@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DABtIMzoVbGLOIqES3FGzxGdG0J1cT+zj3Lpt/KtlVN4ICtK3u5KKdrefv5lD7ws3IodP4/S0heFFTuAwONaTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moksleivis\\source\\repos\\gitSkaitykla2020-10-20\\Skaitykla.EF\\Skaitykla.EF.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

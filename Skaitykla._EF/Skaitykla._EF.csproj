@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201029090919_init.cs" />
+    <Compile Remove="Migrations\20201029090919_init.Designer.cs" />
+    <Compile Remove="Migrations\20201029175730_int2.cs" />
+    <Compile Remove="Migrations\20201029175730_int2.Designer.cs" />
+    <Compile Remove="Migrations\20201103050322_newScheme.cs" />
+    <Compile Remove="Migrations\20201103050322_newScheme.Designer.cs" />
+    <Compile Remove="Migrations\20201110034556_lendingsAdded.cs" />
+    <Compile Remove="Migrations\20201110034556_lendingsAdded.Designer.cs" />
+    <Compile Remove="Migrations\20201110035336_lendingAdded.cs" />
+    <Compile Remove="Migrations\20201110035336_lendingAdded.Designer.cs" />
+    <Compile Remove="Migrations\20201110040045_lendingAdded.cs" />
+    <Compile Remove="Migrations\20201110040045_lendingAdded.Designer.cs" />
+    <Compile Remove="Migrations\20201110042530_lendings.cs" />
+    <Compile Remove="Migrations\20201110042530_lendings.Designer.cs" />
+    <Compile Remove="Migrations\20201110043226_lendings.cs" />
+    <Compile Remove="Migrations\20201110043226_lendings.Designer.cs" />
+    <Compile Remove="Migrations\20201110044011_lendings.cs" />
+    <Compile Remove="Migrations\20201110044011_lendings.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skaitykla._Domain\Skaitykla._Domain.csproj" />
+  </ItemGroup>
+
+</Project>

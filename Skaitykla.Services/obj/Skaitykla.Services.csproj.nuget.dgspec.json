@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla.Services\\Skaitykla.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla.Services\\Skaitykla.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla.Services\\Skaitykla.Services.csproj",
+        "projectName": "Skaitykla.Services",
+        "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla.Services\\Skaitykla.Services.csproj",
+        "packagesPath": "C:\\Users\\Michail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj": {
+                "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj"
+              },
+              "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\Skaitykla._EF.csproj": {
+                "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\Skaitykla._EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj",
+        "projectName": "Skaitykla._Domain",
+        "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj",
+        "packagesPath": "C:\\Users\\Michail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\Skaitykla._EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\Skaitykla._EF.csproj",
+        "projectName": "Skaitykla._EF",
+        "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\Skaitykla._EF.csproj",
+        "packagesPath": "C:\\Users\\Michail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj": {
+                "projectPath": "C:\\Users\\Michail\\source\\repos\\sancho-panso\\SkaityklaMVC\\Skaitykla._Domain\\Skaitykla._Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla.Services.deps.json
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla.Services.dll
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla._Domain.dll
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla._EF.dll
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla._Domain.pdb
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla._EF.pdb
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.csprojAssemblyReference.cache
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.AssemblyInfoInputs.cache
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.AssemblyInfo.cs
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.csproj.CopyComplete
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\bin\Debug\netstandard2.0\Skaitykla.Services.pdb
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.csproj.CoreCompileInputs.cache
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.dll
+C:\Users\Michail\source\repos\sancho-panso\SkaityklaMVC\Skaitykla.Services\obj\Debug\netstandard2.0\Skaitykla.Services.pdb

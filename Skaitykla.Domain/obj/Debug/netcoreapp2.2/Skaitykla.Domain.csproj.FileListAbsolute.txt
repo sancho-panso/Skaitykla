@@ -1,0 +1,9 @@
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\bin\Debug\netcoreapp2.2\Skaitykla.Domain.deps.json
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\bin\Debug\netcoreapp2.2\Skaitykla.Domain.dll
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\bin\Debug\netcoreapp2.2\Skaitykla.Domain.pdb
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.dll
+C:\Users\moksleivis\source\repos\gitSkaitykla\SkaityklaMVC\Skaitykla.Domain\obj\Debug\netcoreapp2.2\Skaitykla.Domain.pdb
